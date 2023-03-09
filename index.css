@@ -1,4 +1,8 @@
 body{
+    .alturaFixa{
+ width: 288px;
+ height: 128px;
+}
     padding: 0px;
     height: 128px;
     width:  288px;
