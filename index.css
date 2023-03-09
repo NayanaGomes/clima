@@ -4,8 +4,6 @@ body{
  height: 128px;
 }
     padding: 0px;
-    height: 128px;
-    width:  288px;
     background-color: #99CCFF;
     display: flex;
     justify-content: left;
