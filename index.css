@@ -3,7 +3,6 @@ body{
     width: 288px;
     height: 128px;
     background-color: #99CCFF;
-    display: flex;
     justify-content: left;
     }
 .left{
