@@ -1,7 +1,9 @@
 body{
-    min-height: 128PX;
-    max-width: 288px;
-    background-color: #99CCFF; 
+    padding: 0px;
+    height: 128px;
+    width:  288px;
+    background-color: #99CCFF;
+    display: flex;
     justify-content: left;
     }
 .left{
