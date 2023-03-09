@@ -3,6 +3,9 @@ body{
     max-width: 288px;
     background-color: #99CCFF; 
     margin: 0 auto;
+    padding: 0px;
+    display: flex;
+    justify-content: left;
 }
 .left{
     text-align: left;
