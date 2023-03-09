@@ -1,8 +1,8 @@
 body{
-    padding: 0px;
-    background-color: rgb(153, 204, 255);
-    display: flex;
-    justify-content: left;
+    min-height: 128PX;
+    max-width: 288px;
+    background-color: #99CCFF; 
+    margin: 0 auto;
 }
 .left{
     text-align: left;
